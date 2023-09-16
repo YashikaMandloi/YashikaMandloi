@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YashikaMandloi
--  Name - Yashika MANDLOI
+-  Name - Yashika Mandloi
 -  Profession - Student
 -  Languages - I have learned ("html, Css, Javascript, C & C++, java")
 - 🌱 I’m currently learning React js, linux
